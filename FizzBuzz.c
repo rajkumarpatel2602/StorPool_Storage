@@ -8,7 +8,7 @@ Code, Compile, Run and Debug online from anywhere in world.
 *******************************************************************************/
 
 /*
- * Problem statement:
+ * Problem: FizzBuzz
  * Write a program that outputs the numbers from 1 to 100. If the number is divisible by 3, instead
  * of it print “A”, if it’s divisible by 5 - “B”, if it’s divisible by 15 - “AB”. The catch is to write it without
  * any conditionals/ifs, including for/while loops.
